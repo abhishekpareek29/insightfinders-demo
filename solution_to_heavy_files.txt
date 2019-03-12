@@ -1,0 +1,2 @@
+We can stream our heavy files with "Apache Commons IO" library available for java.
+Link: https://commons.apache.org/proper/commons-io/
